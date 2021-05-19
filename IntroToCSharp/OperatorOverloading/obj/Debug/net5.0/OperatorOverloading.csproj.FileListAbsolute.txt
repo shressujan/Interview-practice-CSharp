@@ -1,0 +1,15 @@
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/OperatorOverloading/bin/Debug/net5.0/OperatorOverloading.deps.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/OperatorOverloading/bin/Debug/net5.0/OperatorOverloading.runtimeconfig.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/OperatorOverloading/bin/Debug/net5.0/OperatorOverloading.runtimeconfig.dev.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/OperatorOverloading/bin/Debug/net5.0/OperatorOverloading.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/OperatorOverloading/bin/Debug/net5.0/ref/OperatorOverloading.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/OperatorOverloading/bin/Debug/net5.0/OperatorOverloading.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/OperatorOverloading/obj/Debug/net5.0/OperatorOverloading.csprojAssemblyReference.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/OperatorOverloading/obj/Debug/net5.0/OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/OperatorOverloading/obj/Debug/net5.0/OperatorOverloading.AssemblyInfoInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/OperatorOverloading/obj/Debug/net5.0/OperatorOverloading.AssemblyInfo.cs
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/OperatorOverloading/obj/Debug/net5.0/OperatorOverloading.csproj.CoreCompileInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/OperatorOverloading/obj/Debug/net5.0/OperatorOverloading.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/OperatorOverloading/obj/Debug/net5.0/ref/OperatorOverloading.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/OperatorOverloading/obj/Debug/net5.0/OperatorOverloading.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/OperatorOverloading/obj/Debug/net5.0/OperatorOverloading.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Encapsulation/bin/Debug/net5.0/Encapsulation.deps.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Encapsulation/bin/Debug/net5.0/Encapsulation.runtimeconfig.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Encapsulation/bin/Debug/net5.0/Encapsulation.runtimeconfig.dev.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Encapsulation/bin/Debug/net5.0/Encapsulation.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Encapsulation/bin/Debug/net5.0/ref/Encapsulation.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Encapsulation/bin/Debug/net5.0/Encapsulation.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Encapsulation/obj/Debug/net5.0/Encapsulation.csprojAssemblyReference.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Encapsulation/obj/Debug/net5.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Encapsulation/obj/Debug/net5.0/Encapsulation.AssemblyInfoInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Encapsulation/obj/Debug/net5.0/Encapsulation.AssemblyInfo.cs
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Encapsulation/obj/Debug/net5.0/Encapsulation.csproj.CoreCompileInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Encapsulation/obj/Debug/net5.0/Encapsulation.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Encapsulation/obj/Debug/net5.0/ref/Encapsulation.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Encapsulation/obj/Debug/net5.0/Encapsulation.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Encapsulation/obj/Debug/net5.0/Encapsulation.genruntimeconfig.cache

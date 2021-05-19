@@ -1,0 +1,15 @@
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Interface/bin/Debug/net5.0/Interface.deps.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Interface/bin/Debug/net5.0/Interface.runtimeconfig.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Interface/bin/Debug/net5.0/Interface.runtimeconfig.dev.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Interface/bin/Debug/net5.0/Interface.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Interface/bin/Debug/net5.0/ref/Interface.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Interface/bin/Debug/net5.0/Interface.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Interface/obj/Debug/net5.0/Interface.csprojAssemblyReference.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Interface/obj/Debug/net5.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Interface/obj/Debug/net5.0/Interface.AssemblyInfoInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Interface/obj/Debug/net5.0/Interface.AssemblyInfo.cs
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Interface/obj/Debug/net5.0/Interface.csproj.CoreCompileInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Interface/obj/Debug/net5.0/Interface.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Interface/obj/Debug/net5.0/ref/Interface.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Interface/obj/Debug/net5.0/Interface.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Interface/obj/Debug/net5.0/Interface.genruntimeconfig.cache

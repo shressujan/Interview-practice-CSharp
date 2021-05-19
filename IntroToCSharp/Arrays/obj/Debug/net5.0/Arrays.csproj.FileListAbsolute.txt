@@ -1,0 +1,15 @@
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Arrays/bin/Debug/net5.0/Arrays.deps.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.dev.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Arrays/bin/Debug/net5.0/Arrays.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Arrays/bin/Debug/net5.0/ref/Arrays.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Arrays/bin/Debug/net5.0/Arrays.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Arrays/obj/Debug/net5.0/Arrays.csprojAssemblyReference.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Arrays/obj/Debug/net5.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfoInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfo.cs
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Arrays/obj/Debug/net5.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Arrays/obj/Debug/net5.0/Arrays.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Arrays/obj/Debug/net5.0/ref/Arrays.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Arrays/obj/Debug/net5.0/Arrays.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Arrays/obj/Debug/net5.0/Arrays.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Methods/bin/Debug/net5.0/Methods.deps.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Methods/bin/Debug/net5.0/Methods.runtimeconfig.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Methods/bin/Debug/net5.0/Methods.runtimeconfig.dev.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Methods/bin/Debug/net5.0/Methods.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Methods/bin/Debug/net5.0/ref/Methods.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Methods/bin/Debug/net5.0/Methods.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Methods/obj/Debug/net5.0/Methods.csprojAssemblyReference.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Methods/obj/Debug/net5.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Methods/obj/Debug/net5.0/Methods.AssemblyInfoInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Methods/obj/Debug/net5.0/Methods.AssemblyInfo.cs
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Methods/obj/Debug/net5.0/Methods.csproj.CoreCompileInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Methods/obj/Debug/net5.0/Methods.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Methods/obj/Debug/net5.0/ref/Methods.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Methods/obj/Debug/net5.0/Methods.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Methods/obj/Debug/net5.0/Methods.genruntimeconfig.cache

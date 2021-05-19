@@ -1,0 +1,15 @@
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Polymorphism/bin/Debug/net5.0/Polymorphism.deps.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Polymorphism/bin/Debug/net5.0/Polymorphism.runtimeconfig.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Polymorphism/bin/Debug/net5.0/Polymorphism.runtimeconfig.dev.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Polymorphism/bin/Debug/net5.0/Polymorphism.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Polymorphism/bin/Debug/net5.0/ref/Polymorphism.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Polymorphism/bin/Debug/net5.0/Polymorphism.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Polymorphism/obj/Debug/net5.0/Polymorphism.csprojAssemblyReference.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Polymorphism/obj/Debug/net5.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Polymorphism/obj/Debug/net5.0/Polymorphism.AssemblyInfoInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Polymorphism/obj/Debug/net5.0/Polymorphism.AssemblyInfo.cs
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Polymorphism/obj/Debug/net5.0/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Polymorphism/obj/Debug/net5.0/Polymorphism.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Polymorphism/obj/Debug/net5.0/ref/Polymorphism.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Polymorphism/obj/Debug/net5.0/Polymorphism.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Polymorphism/obj/Debug/net5.0/Polymorphism.genruntimeconfig.cache

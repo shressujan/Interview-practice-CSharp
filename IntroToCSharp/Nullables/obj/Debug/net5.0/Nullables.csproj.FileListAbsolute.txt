@@ -1,0 +1,15 @@
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Nullables/bin/Debug/net5.0/Nullables.deps.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Nullables/bin/Debug/net5.0/Nullables.runtimeconfig.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Nullables/bin/Debug/net5.0/Nullables.runtimeconfig.dev.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Nullables/bin/Debug/net5.0/Nullables.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Nullables/bin/Debug/net5.0/ref/Nullables.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Nullables/bin/Debug/net5.0/Nullables.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Nullables/obj/Debug/net5.0/Nullables.csprojAssemblyReference.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Nullables/obj/Debug/net5.0/Nullables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Nullables/obj/Debug/net5.0/Nullables.AssemblyInfoInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Nullables/obj/Debug/net5.0/Nullables.AssemblyInfo.cs
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Nullables/obj/Debug/net5.0/Nullables.csproj.CoreCompileInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Nullables/obj/Debug/net5.0/Nullables.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Nullables/obj/Debug/net5.0/ref/Nullables.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Nullables/obj/Debug/net5.0/Nullables.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Nullables/obj/Debug/net5.0/Nullables.genruntimeconfig.cache

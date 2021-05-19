@@ -1,0 +1,15 @@
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Inheritance/bin/Debug/net5.0/Inheritance.deps.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.dev.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Inheritance/bin/Debug/net5.0/Inheritance.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Inheritance/bin/Debug/net5.0/ref/Inheritance.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Inheritance/bin/Debug/net5.0/Inheritance.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Inheritance/obj/Debug/net5.0/Inheritance.csprojAssemblyReference.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Inheritance/obj/Debug/net5.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfoInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfo.cs
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Inheritance/obj/Debug/net5.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Inheritance/obj/Debug/net5.0/Inheritance.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Inheritance/obj/Debug/net5.0/ref/Inheritance.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Inheritance/obj/Debug/net5.0/Inheritance.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Inheritance/obj/Debug/net5.0/Inheritance.genruntimeconfig.cache

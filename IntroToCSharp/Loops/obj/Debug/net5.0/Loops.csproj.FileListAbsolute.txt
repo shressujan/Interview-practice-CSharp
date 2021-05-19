@@ -1,0 +1,15 @@
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Loops/bin/Debug/net5.0/Loops.deps.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Loops/bin/Debug/net5.0/Loops.runtimeconfig.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Loops/bin/Debug/net5.0/Loops.runtimeconfig.dev.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Loops/bin/Debug/net5.0/Loops.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Loops/bin/Debug/net5.0/ref/Loops.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Loops/bin/Debug/net5.0/Loops.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Loops/obj/Debug/net5.0/Loops.csprojAssemblyReference.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Loops/obj/Debug/net5.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Loops/obj/Debug/net5.0/Loops.AssemblyInfoInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Loops/obj/Debug/net5.0/Loops.AssemblyInfo.cs
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Loops/obj/Debug/net5.0/Loops.csproj.CoreCompileInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Loops/obj/Debug/net5.0/Loops.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Loops/obj/Debug/net5.0/ref/Loops.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Loops/obj/Debug/net5.0/Loops.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Loops/obj/Debug/net5.0/Loops.genruntimeconfig.cache

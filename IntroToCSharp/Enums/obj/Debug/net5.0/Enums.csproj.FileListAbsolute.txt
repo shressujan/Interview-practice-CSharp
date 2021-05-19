@@ -1,0 +1,15 @@
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Enums/bin/Debug/net5.0/Enums.deps.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Enums/bin/Debug/net5.0/Enums.runtimeconfig.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Enums/bin/Debug/net5.0/Enums.runtimeconfig.dev.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Enums/bin/Debug/net5.0/Enums.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Enums/bin/Debug/net5.0/ref/Enums.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Enums/bin/Debug/net5.0/Enums.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Enums/obj/Debug/net5.0/Enums.csprojAssemblyReference.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Enums/obj/Debug/net5.0/Enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Enums/obj/Debug/net5.0/Enums.AssemblyInfoInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Enums/obj/Debug/net5.0/Enums.AssemblyInfo.cs
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Enums/obj/Debug/net5.0/Enums.csproj.CoreCompileInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Enums/obj/Debug/net5.0/Enums.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Enums/obj/Debug/net5.0/ref/Enums.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Enums/obj/Debug/net5.0/Enums.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Enums/obj/Debug/net5.0/Enums.genruntimeconfig.cache

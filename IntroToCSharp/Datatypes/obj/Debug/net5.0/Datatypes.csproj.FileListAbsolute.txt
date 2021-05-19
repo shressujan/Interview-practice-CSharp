@@ -1,0 +1,15 @@
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Datatypes/bin/Debug/net5.0/Datatypes.deps.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Datatypes/bin/Debug/net5.0/Datatypes.runtimeconfig.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Datatypes/bin/Debug/net5.0/Datatypes.runtimeconfig.dev.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Datatypes/bin/Debug/net5.0/Datatypes.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Datatypes/bin/Debug/net5.0/ref/Datatypes.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Datatypes/bin/Debug/net5.0/Datatypes.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Datatypes/obj/Debug/net5.0/Datatypes.csprojAssemblyReference.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Datatypes/obj/Debug/net5.0/Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Datatypes/obj/Debug/net5.0/Datatypes.AssemblyInfoInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Datatypes/obj/Debug/net5.0/Datatypes.AssemblyInfo.cs
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Datatypes/obj/Debug/net5.0/Datatypes.csproj.CoreCompileInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Datatypes/obj/Debug/net5.0/Datatypes.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Datatypes/obj/Debug/net5.0/ref/Datatypes.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Datatypes/obj/Debug/net5.0/Datatypes.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Datatypes/obj/Debug/net5.0/Datatypes.genruntimeconfig.cache

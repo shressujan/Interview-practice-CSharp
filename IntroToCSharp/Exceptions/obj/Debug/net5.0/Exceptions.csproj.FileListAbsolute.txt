@@ -1,0 +1,15 @@
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Exceptions/bin/Debug/net5.0/Exceptions.deps.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Exceptions/bin/Debug/net5.0/Exceptions.runtimeconfig.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Exceptions/bin/Debug/net5.0/Exceptions.runtimeconfig.dev.json
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Exceptions/bin/Debug/net5.0/Exceptions.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Exceptions/bin/Debug/net5.0/ref/Exceptions.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Exceptions/bin/Debug/net5.0/Exceptions.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Exceptions/obj/Debug/net5.0/Exceptions.csprojAssemblyReference.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Exceptions/obj/Debug/net5.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Exceptions/obj/Debug/net5.0/Exceptions.AssemblyInfoInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Exceptions/obj/Debug/net5.0/Exceptions.AssemblyInfo.cs
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Exceptions/obj/Debug/net5.0/Exceptions.csproj.CoreCompileInputs.cache
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Exceptions/obj/Debug/net5.0/Exceptions.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Exceptions/obj/Debug/net5.0/ref/Exceptions.dll
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Exceptions/obj/Debug/net5.0/Exceptions.pdb
+/Users/sujanshrestha/RiderProjects/IntroToCSharp/Exceptions/obj/Debug/net5.0/Exceptions.genruntimeconfig.cache

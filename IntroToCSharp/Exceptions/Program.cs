@@ -4,7 +4,7 @@ namespace Exceptions
 {
     class Program
     {
-        static int? division()
+        private static int? division()
         {
             Console.WriteLine("Enter first num:");
             int num1 = Convert.ToInt32(Console.ReadLine());
@@ -26,13 +26,38 @@ namespace Exceptions
                 Console.WriteLine("Attempted Division");
             }
         }
+
+        private static bool CheckEligibleToVote(int age)
+        {
+            switch (age)
+            {
+                case < 0:
+                    throw new CustomException("Invalid Age");
+                case > 0 and < 18:
+                    return false;
+                default:
+                    return true;
+            }
+        }
         
         static void Main(string[] args)
         {
-
-            int? val = Program.division();
+            var val = Program.division();
             Console.WriteLine($"Division value: {val ?? 0}"); //Using null coalescing kind of like orelse
                                                               //if null return 0 otherwise return actual value
+                                                              
+                                                              
+             /* Check eligible to vote and custom exception */
+             Console.WriteLine("\n Checking Voters Eligibility");
+             const int age = -1;
+             try
+             {
+                Console.WriteLine(Program.CheckEligibleToVote(age) ?  "Eligible to vote" : "Not Eligible to vote");
+             }
+             catch (CustomException e)
+             {
+                 Console.WriteLine(e.Message);
+             }
         }
     }
 }
